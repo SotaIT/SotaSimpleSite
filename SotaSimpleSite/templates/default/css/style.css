@@ -1,0 +1,36 @@
+body { background-color: #ccc; padding:0;margin:0;}
+		#page { 
+			margin: 20px auto; 
+			width:1080px;
+			background-color: #ffffff;
+		}
+		#logo {
+			padding: 20px 0 20px 20px;
+			margin:0px;
+		}
+		#logo a { 
+			font-size: 32px; 
+			color: #222; 
+			text-decoration:none;
+		}
+		#menu {
+			border: 1px solid #ccc;
+			height: 40px;
+			border-left:0px;
+			border-right:0px;
+		}
+		#menu ul { 
+			margin:10px 20px;
+			padding:0;
+		}
+		#menu ul li
+		{
+			list-style-type:none;
+			display:inline;
+			margin-right: 20px;
+		}
+		#menu ul li.active a {
+			text-decoration:none;
+			font-weight:bold;
+		}
+		#content {margin:20px;}

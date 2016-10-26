@@ -1,0 +1,1 @@
+<%@ Control Language="c#" AutoEventWireup="false" Codebehind="delete_list.ascx.cs" Inherits="Sota.Web.SimpleSite.Code.Admin.list.delete_list" TargetSchema="http://schemas.microsoft.com/intellisense/ie5"%>

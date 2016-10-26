@@ -1,0 +1,40 @@
+.sotawebtree
+{
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; 	
+	font-size: 11px; 	
+	white-space: nowrap;
+	overflow: auto;
+	width: 200px;
+	height: 100%;
+	color: #00f;
+	padding:0;
+	margin:0;
+}
+.sotawebtree div
+{
+	padding:0;
+	margin:0;
+	border:0;
+}
+.sotawebtree img
+{
+	border: 0px;
+	vertical-align: middle;
+}
+.sotawebtree ul, .sotawebtree li
+{
+	margin:0;
+	padding:0;
+	text-indent:0;
+}
+.sotawebtree li
+{
+	overflow: hidden;
+}
+
+.sotawebtree li a.selected
+{
+	color: #fff;
+	background-color: #00f;
+}
+
