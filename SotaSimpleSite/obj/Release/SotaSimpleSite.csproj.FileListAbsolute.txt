@@ -1,8 +1,0 @@
-D:\!work\projects\SotaSimpleSite3\SotaSimpleSite\SotaSimpleSite\bin\SotaSimpleSite.dll
-D:\!work\projects\SotaSimpleSite3\SotaSimpleSite\SotaSimpleSite\bin\SotaSimpleSite.pdb
-D:\!work\projects\SotaSimpleSite3\SotaSimpleSite\SotaSimpleSite\obj\Release\SotaSimpleSite.dll
-D:\!work\projects\SotaSimpleSite3\SotaSimpleSite\SotaSimpleSite\obj\Release\SotaSimpleSite.pdb
-D:\!work\projects\SotaSimpleSite3\SotaSimpleSite\SotaSimpleSite\bin\SotaSimpleSite.dll.config
-D:\!work\projects\SotaSimpleSite3\SotaSimpleSite\SotaSimpleSite\obj\Release\SotaSimpleSite.admin.resources.AdminResources.resources
-D:\!work\projects\SotaSimpleSite3\SotaSimpleSite\SotaSimpleSite\obj\Release\SotaSimpleSite.csproj.GenerateResource.Cache
-D:\!work\projects\SotaSimpleSite3\SotaSimpleSite\SotaSimpleSite\obj\Release\SotaSimpleSite.csprojResolveAssemblyReference.cache
